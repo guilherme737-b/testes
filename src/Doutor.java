@@ -2,6 +2,7 @@ public class Doutor {
 
     private String nome;
     private Integer idade;
+    private String cpf:
 
     public Doutor(String nome, Integer idade) {
         this.nome = nome;
